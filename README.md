@@ -40,4 +40,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🌟 About Me
 
-Hi there! I'm Naveen Yadav, I’m an IT professional and passionate to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm Naveen Yadav, I’m an IT professional and My mission is to share the knowledge I’ve gained over the years and make working with data fun.
