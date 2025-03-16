@@ -37,7 +37,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 
 Everything is for Free!
 
-- **Datasets**: Access to the project dataset (csv files).
+- [**Datasets**](https://github.com/Naveen19061996/sql-data-warehouse-project/tree/main/datasets): Access to the project dataset (csv files).
 - **SQL Server Express** : Lightweight server for hosting your SQL database.
 - **SQL Server Management Studio (SSMS)**: GUI for managing and interacting with databases.
 - **Git Repository**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
