@@ -38,12 +38,12 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 Everything is for Free!
 
 - [**Datasets**](https://github.com/Naveen19061996/sql-data-warehouse-project/tree/main/datasets): Access to the project dataset (csv files).
-- **SQL Server Express** : Lightweight server for hosting your SQL database.
-- **SQL Server Management Studio (SSMS)**: GUI for managing and interacting with databases.
-- **Git Repository**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-- **DrawIO**: Design data architecture, models, flows, and diagrams.
-- **Notion**: All-in-one tool for project management and organization.
-- **Notion Project Steps** : Access to All Project Phases and Tasks.
+- [**SQL Server Express**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) : Lightweight server for hosting your SQL database.
+- [**SQL Server Management Studio (SSMS)**](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16): GUI for managing and interacting with databases.
+- [**Git Repository**](https://github.com/): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- [**DrawIO**](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
+- [**Notion**](https://www.notion.com/): All-in-one tool for project management and organization.
+- [**Notion Project Steps**](https://www.notion.so/Data-Warehouse-Project-1b610d67210b804d8916e33557e4432d) : Access to All Project Phases and Tasks.
 
 ---
 
